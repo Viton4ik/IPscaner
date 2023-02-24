@@ -13,3 +13,5 @@ cd /path to/IPscaner.sh
 sudo chmod 775 IPscaner.sh
 bash IPscaner.sh
 ```
+<hr>
+<img src="https://img.shields.io/static/v1?label=Enjoy&message=bash&color=9cf"/>
