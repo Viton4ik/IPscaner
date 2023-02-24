@@ -33,5 +33,5 @@ nmap -PE $IP -oN resultip
 # print the result
 cat resultip
 
-# finalising the cycle
+# finalizing the cycle
 fi
